@@ -1,2 +1,2 @@
 # site-portif-gio
-Este é um projeto portifólio
+Este é um projeto portifolio
